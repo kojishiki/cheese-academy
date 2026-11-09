@@ -561,3 +561,15 @@ body {
     font-size: 12px !important;
     color: #777;
 }
+
+.back-to-top {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  padding: 12px 16px;
+  background: #333;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  z-index: 1000;
+}
